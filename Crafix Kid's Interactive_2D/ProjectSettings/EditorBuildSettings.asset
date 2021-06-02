@@ -11,4 +11,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GAME_1-Match_The_Shadow.unity
     guid: 139412a8a9a33114fa07a80e205ce324
+  - enabled: 1
+    path: Assets/Scenes/GAME_2-Count_The_Item.unity
+    guid: e34888bf43b8bd142bbc681f0712fc1b
+  - enabled: 1
+    path: Assets/Scenes/GAME_3-Drag_In_The_Basket.unity
+    guid: 9acef1ef692f4a34d8d9e360826d7ba5
+  - enabled: 1
+    path: Assets/Scenes/GAME_4-Arrange_The_Alphabets.unity
+    guid: b0628a9a60786cb42a0150e55d8bfbb9
+  - enabled: 1
+    path: Assets/Scenes/GAME_5-Fill_The_Colours.unity
+    guid: f8dd668ef1fdd4d48ab1cad98f984292
+  - enabled: 1
+    path: Assets/Scenes/GAME_6-Complete_The_Image.unity
+    guid: f42bd6f655240fc42948f55caccb915f
+  - enabled: 1
+    path: Assets/Scenes/Level_Selection.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
